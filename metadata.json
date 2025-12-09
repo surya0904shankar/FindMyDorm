@@ -1,0 +1,5 @@
+{
+  "name": "FindMyDorm",
+  "description": "A student-centric platform to discover, review, and compare dorms and PGs near universities. Features community Q&A and AI-powered recommendations.",
+  "requestFramePermissions": []
+}
